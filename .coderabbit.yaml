@@ -1,0 +1,10 @@
+language: en
+reviews:
+  profile: assertive
+  auto_review:
+    enabled: true
+    drafts: false
+  request_changes_workflow: true
+
+chat:
+  auto_reply: true
